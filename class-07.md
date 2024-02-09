@@ -1,6 +1,6 @@
 ## Programming with JavaScript
 
-### hat is control flow?
+### What is control flow?
 
 The order of execution. 
 
