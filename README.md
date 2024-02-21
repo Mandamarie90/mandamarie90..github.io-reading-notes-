@@ -10,9 +10,17 @@ Having a growth mindset means believing that everything can be learned and viewi
 This website contains my notes throughout Code 102
 
 ### Table of Contents
+#### Code 102
 - [Class 01](./class-01.md)
 - [Class 02](./class-02.md)
 - [Class 03](./class-03.md)
 - [Class 04](./class-04.md)
 - [Class 05](./class-05.md)
+- [Class 06](./code-102/class-06.md)
+- [Class 07](./code-102/class-07.md)
+- [CLass 08](./code-102/class-08.md)
 
+#### Code 201
+- [Class 01](./code-201/class-01.md)
+- [Class 02](./code-201/class-02.md)
+- [Class 03](./code-201/class-03.md)
