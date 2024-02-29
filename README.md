@@ -27,3 +27,4 @@ This website contains my notes throughout Code 102
 - [Class 04](./code-201/class-04.md)
 - [Class 05](./code-201/class-05.md)
 - [Class 08](./code-201/class-08.md)
+- [Class 09](./code-201/class-09.md)
