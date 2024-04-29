@@ -10,7 +10,7 @@ Having a growth mindset means believing that everything can be learned and viewi
 This website contains my notes throughout Code 102
 
 ### Table of Contents
-#### Code 102
+## Code 102 - Intro to Software Development
 - [Class 01](./class-01.md)
 - [Class 02](./class-02.md)
 - [Class 03](./class-03.md)
@@ -20,7 +20,8 @@ This website contains my notes throughout Code 102
 - [Class 07](./code-102/class-07.md)
 - [CLass 08](./code-102/class-08.md)
 
-#### Code 201
+## Code 201 - Foundations of Software Development
+
 - [Class 01](./code-201/class-01.md)
 - [Class 02](./code-201/class-02.md)
 - [Class 03](./code-201/class-03.md)
@@ -32,3 +33,12 @@ This website contains my notes throughout Code 102
 - [Class 11](./code-201/class-11.md)
 - [Class 12](./code-201/class-12.md)
 - [Class 13](./code-201/class-13.md)
+- [Class 14](./code-201/class-14.md)
+- [Class 14b](.code-201/class-14b.md)
+
+## Code 301 - Intermediate Software Development
+
+- [Class 01](./code-301/class-01.md)
+- [Class 02](./code-301/class-02.md)
+
+## Code 401 - Advanced Software Development
